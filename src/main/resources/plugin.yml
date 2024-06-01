@@ -1,0 +1,4 @@
+name: easydupe
+version: '${project.version}'
+main: org.critical.easydupe.Easydupe
+api-version: '1.20'
