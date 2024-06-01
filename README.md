@@ -1,7 +1,8 @@
 # EasyDupe | 1.0.0
 
 ## Lightweight Item Duplication Plugin
-![image](https://github.com/easyknown/EasyDupe/assets/68581145/113df8fa-1bb0-497e-9038-9f1430fcf911)
+![TreasureChest_2](https://github.com/easyknown/EasyDupe/assets/68581145/481d0880-253b-4cfd-aa5c-04f49f64c91d)
+
 
 EasyDupe is a handy Bukkit plugin that allows players to duplicate their held items with a simple command. Whether you're looking to quickly duplicate valuable items for trading or just want to experiment with different item combinations, EasyDupe makes the process effortless.
 
